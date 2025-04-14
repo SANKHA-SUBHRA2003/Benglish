@@ -1,4 +1,4 @@
-ver wanted to say " Dekh a holo 5 ( দেখ a হলো 5 )" and "c ke chhaap ( c কে ছাপ)" ,instead of a=5 and print c ?
+Ever wanted to say " Dekh a holo 5 ( দেখ a হলো 5 )" and "c ke chhaap ( c কে ছাপ)" ,instead of a=5 and print c ?
 
 Introducing "Benglish" - a new prototype language which instills Bengali feelings in English and lets you code whatever you want. 
 Made in a python environment and uses ".benglish" extension to run.
